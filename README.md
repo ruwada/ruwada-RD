@@ -1,24 +1,58 @@
-# 👋 Welcome to Digital Muhajer Company
+# 🚀 Ruwada — AI Software Solutions for Visionary Businesses
 
-### 🚀 Who We Are
-Digital Muhajer is a seasoned software development company specializing in creating robust CRM, ERP, reservation systems, and marketplaces. With a skilled team of about 10 professionals, we leverage our extensive experience to deliver top-tier solutions tailored to meet our clients' needs.
+**Ruwada** comes from the Arabic word **رائد (rā'id)**, which carries meanings like *pioneer*, *leader*, or *trailblazer*, depending on the context.  
+At Ruwada, we embrace that spirit — helping businesses break new ground through custom AI-driven software solutions that are smart, fast, and scalable.
 
-### 💡 Our Expertise
-- **CRM & ERP Development:** Crafting customized solutions to streamline your business operations.
-- **Reservation Systems:** Developing efficient and user-friendly booking systems.
-- **Marketplaces:** Building scalable and secure e-commerce platforms.
+---
 
-### 🔧 Technologies We Use
-We pride ourselves on staying ahead of the curve by using the latest technologies:
-- **Backend:** Node.js, PHP, Java
-- **Frontend:** Next.js, React Native
-- **Security:** Implementing secure scenarios with Java to ensure your data is protected.
+## 💼 What We Do
 
-### 🌍 Why Choose Us?
-Choosing Digital Muhajer means partnering with a team that:
-- **Understands Your Business:** We don’t just build software; we create solutions that drive success.
-- **Delivers Quality:** Our attention to detail and commitment to excellence ensure that your project is delivered on time and exceeds expectations.
-- **Stays Updated:** We constantly update our skills and knowledge, so you benefit from the latest and most effective technologies.
+We build solutions that **solve real problems**, **optimize workflows**, and **accelerate business growth**, including:
 
-### 📫 Get in Touch
-Ready to bring your vision to life? [Contact us](mailto:digital.muhajer@gmail.com) to discuss how we can help.
+- AI-powered business process automation  
+- Reservation, booking, and logistics systems  
+- Custom CRM and ERP platforms  
+- Web and mobile applications  
+- Lightning-fast MVPs and landing pages  
+- Business website development and modernization
+
+---
+
+## 🛠️ Our Tech Stack
+
+**Languages:** Java, JavaScript, TypeScript, Python  
+**Frameworks:** Spring, Django, Node.js, NestJS, ExpressJS, React, Angular  
+**Tools:** Docker, GitHub Actions, Jira, Trello  
+**AI:** DeepSeek, Ollama  
+**Cloud:** AWS, GCP, Hostinger
+
+---
+
+## 🌐 Live Projects
+
+- [Adalitur](https://www.adalitur.com.tr/) – Booking platform for tours, hotels, and educational programs  
+- [Arapp](https://arapp.one) – Mobile app for learning Arabic  
+- [TransferHub360](https://transferhub360.com/) – CRM system for hotel/clinic car transfer management  
+- [ataballyyev.com](https://ataballyyev.com/) – Personal portfolio / business card websites built quickly and affordably  
+
+---
+
+## 📫 Get in Touch
+
+🔹 Email: [islam.tr.it.95@gmail.com](mailto:islam.tr.it.95@gmail.com)  
+🔹 LinkedIn: [Islam Ataballyyev](https://www.linkedin.com/in/islam-ataballyyev)  
+🔹 Website: [ruwada.lovable.app](https://ruwada.lovable.app)
+
+---
+
+## 🎁 Free for New Clients
+
+Got an idea or an existing system? Let's talk.
+
+✅ **Free project audit** (for existing systems)  
+✅ **Free MVP roadmap** (for new ideas), including:
+- Tech stack recommendations  
+- Time estimates  
+- Scalable architecture outline
+
+> 👋 Reach out — we reply fast, speak clearly, and deliver solutions that just work.
