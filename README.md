@@ -1,6 +1,6 @@
 # 🚀 Ruwada — AI Software Solutions for Visionary Businesses
 
-**Ruwada** comes from the Arabic word **رائد (rā'id)**, which carries meanings like *pioneer*, *leader*, or *trailblazer*, depending on the context.  
+**Ruwada** comes from the Arabic word **رائد (rā'id)**, which carries meanings like *leader* or *trailblazer*, depending on the context.  
 At Ruwada, we embrace that spirit — helping businesses break new ground through custom AI-driven software solutions that are smart, fast, and scalable.
 
 ---
@@ -23,7 +23,7 @@ We build solutions that **solve real problems**, **optimize workflows**, and **a
 **Languages:** Java, JavaScript, TypeScript, Python  
 **Frameworks:** Spring, Django, Node.js, NestJS, ExpressJS, React, Angular  
 **Tools:** Docker, GitHub Actions, Jira, Trello  
-**AI:** DeepSeek, Ollama  
+**AI:** DeepSeek, Ollama, Claude
 **Cloud:** AWS, GCP, Hostinger
 
 ---
@@ -34,6 +34,7 @@ We build solutions that **solve real problems**, **optimize workflows**, and **a
 - [Arapp](https://arapp.one) – Mobile app for learning Arabic  
 - [TransferHub360](https://transferhub360.com/) – CRM system for hotel/clinic car transfer management  
 - [ataballyyev.com](https://ataballyyev.com/) – Personal portfolio / business card websites built quickly and affordably  
+- [arabic-learning-bot](https://t.me/QuranAlphabetBot) – Telegram Bot for learning arabic / Bayna yedeyk book
 
 ---
 
@@ -41,7 +42,7 @@ We build solutions that **solve real problems**, **optimize workflows**, and **a
 
 🔹 Email: [islam.tr.it.95@gmail.com](mailto:islam.tr.it.95@gmail.com)  
 🔹 LinkedIn: [Islam Ataballyyev](https://www.linkedin.com/in/islam-ataballyyev)  
-🔹 Website: [ruwada.lovable.app](https://ruwada.lovable.app)
+🔹 Website: [ruwada.tech](https://ruwada.tech)
 
 ---
 
